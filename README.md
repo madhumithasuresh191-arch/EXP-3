@@ -38,12 +38,13 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-
-Direct connection: CIRCUIT DIAGRAM: 
+CIRCUIT DIAGRAM: 
 Tabulation:1
-	![31](https://github.com/user-attachments/assets/9adc4830-a0dc-483e-9cfe-0e7a8a72f080)
+
+![31](https://github.com/user-attachments/assets/593b165d-afdd-4b7d-b106-b001c1618d7e)
 
 Cross connection: CIRCUIT DIAGRAM:
+<img width="723" height="628" alt="Screenshot 2025-09-15 143803" src="https://github.com/user-attachments/assets/13900c1e-e012-4224-a28a-d55f2228662e" />
 
 Tabulation:2
 ![33](https://github.com/user-attachments/assets/c083a664-11c7-4d9c-aba9-4e4932a94331)
